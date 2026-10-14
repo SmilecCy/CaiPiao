@@ -20,6 +20,7 @@ RUN uv sync --frozen --no-dev || uv sync --no-dev
 # 复制应用代码
 COPY core ./core
 COPY storage ./storage
+COPY crawler ./crawler
 COPY web ./web
 COPY main.py ./
 

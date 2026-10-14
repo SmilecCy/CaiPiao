@@ -240,3 +240,224 @@
 2026-10-14 14:55:36 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 1 条
 2026-10-14 14:55:36 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 2 条
 2026-10-14 14:55:36 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:30:44 | INFO    | __main__ | 成功获取双色球开奖数据 8 期
+2026-10-14 17:37:57 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:14 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:26 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:39 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:39 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:40 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:40 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:41 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:41 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:41 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:41 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:42 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:42 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:42 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:42 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:42 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:42 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:42 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:42 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:43 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:43 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:38:54 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:38:54 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 2 条
+2026-10-14 17:38:54 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 3 条
+2026-10-14 17:38:54 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 3 条
+2026-10-14 17:39:36 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 3 条
+2026-10-14 17:39:36 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:57:15 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 3 条
+2026-10-14 17:57:24 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 3 条
+2026-10-14 17:57:26 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:57:26 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:57:26 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:57:26 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:58:05 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:58:05 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 3 条
+2026-10-14 17:58:05 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 4 条
+2026-10-14 17:58:05 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 4 条
+2026-10-14 17:58:05 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:58:17 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 4 条
+2026-10-14 17:58:17 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 17:58:17 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:58:57 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:58:57 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 4 条
+2026-10-14 17:58:57 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 5 条
+2026-10-14 17:58:57 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 5 条
+2026-10-14 17:58:57 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:01 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:01 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 5 条
+2026-10-14 17:59:01 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 6 条
+2026-10-14 17:59:01 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 6 条
+2026-10-14 17:59:01 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:04 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:04 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 6 条
+2026-10-14 17:59:04 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 7 条
+2026-10-14 17:59:04 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 7 条
+2026-10-14 17:59:05 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:08 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:08 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 7 条
+2026-10-14 17:59:08 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 8 条
+2026-10-14 17:59:08 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 8 条
+2026-10-14 17:59:08 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:10 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:10 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 8 条
+2026-10-14 17:59:10 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 9 条
+2026-10-14 17:59:10 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 9 条
+2026-10-14 17:59:11 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:13 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:13 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 9 条
+2026-10-14 17:59:13 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 10 条
+2026-10-14 17:59:13 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 10 条
+2026-10-14 17:59:13 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:16 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:16 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 10 条
+2026-10-14 17:59:16 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 11 条
+2026-10-14 17:59:16 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 11 条
+2026-10-14 17:59:16 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:19 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:19 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 11 条
+2026-10-14 17:59:19 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 12 条
+2026-10-14 17:59:19 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 12 条
+2026-10-14 17:59:20 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:28 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:28 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 12 条
+2026-10-14 17:59:28 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 13 条
+2026-10-14 17:59:28 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 13 条
+2026-10-14 17:59:28 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:31 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:31 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 13 条
+2026-10-14 17:59:31 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 14 条
+2026-10-14 17:59:31 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 14 条
+2026-10-14 17:59:31 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:35 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 17:59:35 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 14 条
+2026-10-14 17:59:35 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 15 条
+2026-10-14 17:59:35 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 15 条
+2026-10-14 17:59:35 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:40 | INFO    | core.generator | 批量生成 5 注号码
+2026-10-14 17:59:40 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 15 条
+2026-10-14 17:59:40 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 5 条记录，累计 20 条
+2026-10-14 17:59:40 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 20 条
+2026-10-14 17:59:41 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:46 | INFO    | core.generator | 批量生成 5 注号码
+2026-10-14 17:59:46 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 20 条
+2026-10-14 17:59:46 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 5 条记录，累计 25 条
+2026-10-14 17:59:46 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 25 条
+2026-10-14 17:59:46 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:49 | INFO    | core.generator | 批量生成 5 注号码
+2026-10-14 17:59:49 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 25 条
+2026-10-14 17:59:49 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 5 条记录，累计 30 条
+2026-10-14 17:59:49 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 30 条
+2026-10-14 17:59:49 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 17:59:56 | INFO    | core.generator | 批量生成 5 注号码
+2026-10-14 17:59:56 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 30 条
+2026-10-14 17:59:56 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 5 条记录，累计 35 条
+2026-10-14 17:59:56 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 35 条
+2026-10-14 17:59:56 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:01:26 | INFO    | core.generator | 批量生成 5 注号码
+2026-10-14 18:01:26 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 35 条
+2026-10-14 18:01:26 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 5 条记录，累计 40 条
+2026-10-14 18:01:26 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 40 条
+2026-10-14 18:01:37 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:04:02 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 18:04:02 | INFO    | storage.history | 用户 23618c8e98cd485081df4ee09fc8181d 批量保存 1 条记录，累计 1 条
+2026-10-14 18:04:02 | INFO    | storage.history | 用户 23618c8e98cd485081df4ee09fc8181d 读取历史记录 1 条
+2026-10-14 18:04:02 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:04:29 | INFO    | core.generator | 生成号码: red=[1, 2, 5, 11, 22, 23], blue=15
+2026-10-14 18:04:29 | INFO    | core.generator | 生成号码: red=[1, 8, 9, 22, 32, 33], blue=9
+2026-10-14 18:04:29 | INFO    | core.generator | 生成号码: red=[4, 10, 17, 20, 22, 27], blue=8
+2026-10-14 18:04:29 | INFO    | core.generator | 生成号码: red=[3, 5, 10, 19, 21, 31], blue=3
+2026-10-14 18:04:29 | INFO    | core.generator | 生成号码: red=[2, 8, 9, 24, 29, 33], blue=5
+2026-10-14 18:04:29 | INFO    | core.generator | 生成号码: red=[2, 8, 9, 24, 29, 33], blue=5
+2026-10-14 18:04:29 | INFO    | core.generator | 批量生成 5 注号码
+2026-10-14 18:04:29 | ERROR   | core.generator | 批量生成失败，注数非法: 0
+2026-10-14 18:04:44 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 40 条
+2026-10-14 18:04:55 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:04:55 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:05:00 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 40 条
+2026-10-14 18:05:01 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:05:01 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:05:05 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 18:05:05 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 40 条
+2026-10-14 18:05:05 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 批量保存 1 条记录，累计 41 条
+2026-10-14 18:05:05 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:05:06 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:07:02 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:07:02 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:07:02 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:07:24 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:07:24 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:07:24 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:07:37 | INFO    | core.generator | 批量生成 1 注号码
+2026-10-14 18:07:37 | INFO    | storage.history | 用户 57d29da38c5b440995339714b226722e 批量保存 1 条记录，累计 1 条
+2026-10-14 18:07:37 | INFO    | storage.history | 用户 57d29da38c5b440995339714b226722e 读取历史记录 1 条
+2026-10-14 18:07:38 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:36 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:36 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:36 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:43 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:44 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:44 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:44 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:44 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:45 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:45 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:45 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:45 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:46 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:46 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:46 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:46 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:46 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:46 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:47 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:47 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:47 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:48 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:48 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:48 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:49 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:49 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:49 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:49 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:50 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:50 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:50 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:50 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:50 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:51 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:51 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:51 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:52 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:52 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:52 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:53 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:53 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:53 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:54 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:55 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:55 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:55 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:56 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:56 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:56 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:57 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:57 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:57 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:58 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:58 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:08:58 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:08:58 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:08:59 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:09:00 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:09:00 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:09:00 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:09:00 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:09:00 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:09:01 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期
+2026-10-14 18:09:01 | INFO    | storage.history | 用户 c24a5c9d4dd4494baa50966d33880be5 读取历史记录 41 条
+2026-10-14 18:09:01 | INFO    | crawler.ssq | 成功获取双色球开奖数据 8 期
+2026-10-14 18:09:01 | INFO    | crawler.ssq | 成功获取双色球开奖数据 100 期

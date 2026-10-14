@@ -11,6 +11,6 @@ from core.logger import setup_logging
 if __name__ == "__main__":
     setup_logging(level=logging.INFO)
     host = os.getenv("HOST", "0.0.0.0")
-    port = int(os.getenv("PORT", "8000"))
+    port = int(os.getenv("PORT", "8888"))
     reload = os.getenv("RELOAD", "false").lower() == "true"
     uvicorn.run("web.api:app", host=host, port=port, reload=reload)

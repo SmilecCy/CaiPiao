@@ -15,49 +15,63 @@
             <p class="subtitle">红球 6 个（1-33） · 蓝球 1 个（1-16）</p>
         </header>
 
-        <section class="machines">
-            <div class="machine-card">
-                <div class="machine-title">红球摇奖机</div>
-                <div class="machine" id="redMachine">
-                    <div class="balls-area" id="redBallsArea"></div>
-                    <div class="stirrer"></div>
-                    <div class="machine-base"></div>
+        <div class="main-layout">
+            <aside class="draws-panel">
+                <div class="draws-title">
+                    <span>🏆 往期开奖号码</span>
+                    <span class="draws-count" id="drawsCount">加载中...</span>
                 </div>
-                <div class="result-area" id="redResult"></div>
-            </div>
-
-            <div class="machine-card">
-                <div class="machine-title">蓝球摇奖机</div>
-                <div class="machine blue" id="blueMachine">
-                    <div class="balls-area" id="blueBallsArea"></div>
-                    <div class="stirrer"></div>
-                    <div class="machine-base"></div>
+                <div class="draws-list" id="drawsList">
+                    <div class="empty-hint">加载中...</div>
                 </div>
-                <div class="result-area" id="blueResult"></div>
-            </div>
-        </section>
+            </aside>
 
-        <section class="control-panel">
-            <div class="count-control">
-                <label for="countInput">注数</label>
-                <input type="number" id="countInput" min="1" max="99" value="1">
-            </div>
-            <button id="shakeBtn" class="shake-btn">
-                <span class="btn-icon">🎲</span>
-                欢乐摇一摇
-            </button>
-            <button id="clearBtn" class="clear-btn">清空历史</button>
-        </section>
+            <section class="main-content">
+                <section class="machines">
+                    <div class="machine-card">
+                        <div class="machine-title">红球摇奖机</div>
+                        <div class="machine" id="redMachine">
+                            <div class="balls-area" id="redBallsArea"></div>
+                            <div class="stirrer"></div>
+                            <div class="machine-base"></div>
+                        </div>
+                        <div class="result-area" id="redResult"></div>
+                    </div>
 
-        <section class="history-panel">
-            <div class="history-title">
-                <span>📋 号码历史记录</span>
-                <span class="history-count" id="historyCount">0 条</span>
-            </div>
-            <div class="history-list" id="historyList">
-                <div class="empty-hint">暂无记录，点击「欢乐摇一摇」开始吧～</div>
-            </div>
-        </section>
+                    <div class="machine-card">
+                        <div class="machine-title">蓝球摇奖机</div>
+                        <div class="machine blue" id="blueMachine">
+                            <div class="balls-area" id="blueBallsArea"></div>
+                            <div class="stirrer"></div>
+                            <div class="machine-base"></div>
+                        </div>
+                        <div class="result-area" id="blueResult"></div>
+                    </div>
+                </section>
+
+                <section class="control-panel">
+                    <div class="count-control">
+                        <label for="countInput">注数</label>
+                        <input type="number" id="countInput" min="1" max="99" value="1">
+                    </div>
+                    <button id="shakeBtn" class="shake-btn">
+                        <span class="btn-icon">🎲</span>
+                        欢乐摇一摇
+                    </button>
+                    <button id="clearBtn" class="clear-btn">清空历史</button>
+                </section>
+
+                <section class="history-panel">
+                    <div class="history-title">
+                        <span>📋 号码历史记录</span>
+                        <span class="history-count" id="historyCount">0 条</span>
+                    </div>
+                    <div class="history-list" id="historyList">
+                        <div class="empty-hint">暂无记录，点击「欢乐摇一摇」开始吧～</div>
+                    </div>
+                </section>
+            </section>
+        </div>
     </main>
 
     <script src="/static/app.js"></script>

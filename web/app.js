@@ -11,6 +11,8 @@ const redResult = $("redResult");
 const blueResult = $("blueResult");
 const historyList = $("historyList");
 const historyCount = $("historyCount");
+const drawsList = $("drawsList");
+const drawsCount = $("drawsCount");
 
 let rolling = false;
 
@@ -206,7 +208,13 @@ function renderHistory(records) {
                     const balls = (rec.red || [])
                         .map((n) => `<span class="history-ball red">${String(n).padStart(2, "0")}</span>`)
                         .join("") + `<span class="history-ball blue">${String(rec.blue).padStart(2, "0")}</span>`;
-                    return `<div class="history-row">${timeCell}<div class="history-balls">${balls}</div></div>`;
+                    const prize = rec.prize || { name: "未开奖", level: 0 };
+                    const prizeName = prize.name || "未开奖";
+                    const prizeLevel = prize.level || 0;
+                    const prizeClass = prizeLevel > 0 ? `prize-tag prize-${prizeLevel}` : "prize-tag prize-none";
+                    const drawCode = rec.matched_draw ? rec.matched_draw.code : "";
+                    const prizeTip = drawCode ? `匹配第 ${drawCode} 期开奖 · 命中 ${prize.red_hit || 0} 红${prize.blue_hit ? "+1蓝" : ""}` : "暂无对应开奖数据";
+                    return `<div class="history-row">${timeCell}<div class="history-balls">${balls}</div><span class="${prizeClass}" title="${prizeTip}">${prizeName}</span></div>`;
                 })
                 .join("");
             const badge = isMulti ? `<span class="batch-badge">${group.items.length} 注</span>` : "";
@@ -235,6 +243,44 @@ async function clearHistory() {
     }
 }
 
+function renderDraws(draws) {
+    drawsCount.textContent = `${draws.length} 期`;
+    if (draws.length === 0) {
+        drawsList.innerHTML = '<div class="empty-hint">暂无开奖数据</div>';
+        return;
+    }
+    drawsList.innerHTML = draws
+        .map((d) => {
+            const redBalls = (d.red || [])
+                .map((n) => `<span class="draw-ball red">${String(n).padStart(2, "0")}</span>`)
+                .join("");
+            const blueBall = `<span class="draw-ball blue">${String(d.blue).padStart(2, "0")}</span>`;
+            return `
+                <div class="draw-item">
+                    <div class="draw-item-header">
+                        <span class="draw-code">第 ${d.code} 期</span>
+                        <span class="draw-date">${d.date}</span>
+                    </div>
+                    <div class="draw-balls">${redBalls}${blueBall}</div>
+                </div>
+            `;
+        })
+        .join("");
+}
+
+async function loadDraws() {
+    try {
+        const resp = await fetch("/api/draws?count=8");
+        if (!resp.ok) throw new Error("获取开奖数据失败");
+        const data = await resp.json();
+        renderDraws(data.draws || []);
+    } catch (err) {
+        console.error("加载开奖数据失败", err);
+        drawsCount.textContent = "加载失败";
+        drawsList.innerHTML = '<div class="empty-hint">开奖数据加载失败，请稍后重试</div>';
+    }
+}
+
 shakeBtn.addEventListener("click", generate);
 clearBtn.addEventListener("click", clearHistory);
 
@@ -248,3 +294,4 @@ window.addEventListener("resize", () => {
 
 setupStaticBalls();
 loadHistory();
+loadDraws();
