@@ -125,19 +125,7 @@ docker run -d \
   caipiao
 ```
 
-### 部署到远程服务器示例
 
-```bash
-# 上传项目到服务器
-scp -r ./CaiPiao root@111.230.235.224:/opt/caipiao
-
-# 登录服务器并启动
-ssh root@111.230.235.224
-cd /opt/caipiao
-docker compose up -d --build
-```
-
-> 注意：确保服务器防火墙/安全组放行 `8888` 端口。
 
 ## 多用户隔离说明
 
