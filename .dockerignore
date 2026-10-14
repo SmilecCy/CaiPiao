@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 数据与日志（通过卷挂载，不打入镜像）
+data/
+logs/
+
+# 测试
+tests/
+
+# 文档
+README.md
+
+# Docker 自身
+Dockerfile
+docker-compose.yml
+.dockerignore

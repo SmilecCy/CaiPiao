@@ -1,0 +1,13 @@
+services:
+  caipiao:
+    build: .
+    container_name: caipiao
+    restart: unless-stopped
+    ports:
+      - "8888:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
